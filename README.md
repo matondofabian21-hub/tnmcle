@@ -1,2 +1,2 @@
 # tnmcle
-TNMCLE 2023 practice exam for registration nurses
+TNMCLE practice exam for registration nurses
